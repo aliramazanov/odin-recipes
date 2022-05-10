@@ -1,2 +1,2 @@
-A simple website made during the exploration of The Odin Porject Foundations.
-For now only contains 3 different recipes and some HTML.
+A simple website - made possible thanks to The Odin Project Foundations.<br>
+For now, it contains three different recipes and some HTML code.
